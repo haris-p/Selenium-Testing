@@ -1,0 +1,17 @@
+# Abaikan virtual environment
+env/
+venv/
+
+# Abaikan cache dan file Python sementara
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan konfigurasi IDE (VSCode, PyCharm, dll)
+.vscode/
+.idea/
+
+# Abaikan file sistem
+.DS_Store
+Thumbs.db
